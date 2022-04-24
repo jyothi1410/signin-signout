@@ -1,0 +1,40 @@
+html,
+body { height: 100%;}
+.login-styles {
+    border: 1px solid;
+    width: 50%;
+    height: 50%;
+    display: block;
+    margin: auto;
+}
+.padding10{
+    padding: 10%;
+}
+.form-styles {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 7%;
+}
+.login-styles h1{
+    text-align: center;
+}
+.custom-list-inline{
+    padding:0px;
+    margin:0px;
+}
+.custom-list-inline li{
+    display:grid;
+    vertical-align: middle;
+}
+.errMsg{
+    color:red;
+    font-size: 12px;
+    padding: 5px 0;
+    margin: 0;
+}
+.form-label{
+    margin: 5px;
+}
+.submitBtn{
+    padding:10px 0 20px 0;
+}

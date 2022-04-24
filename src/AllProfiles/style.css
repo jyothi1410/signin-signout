@@ -1,0 +1,16 @@
+.all-profile-styles{
+    padding: 1%;
+    text-align: center;
+}
+.user-profile{
+    display: inline-block;
+    padding: 2%;
+    text-align: center;
+}
+.user-profile img{
+    width:100px;
+    height: 100px;
+}
+.logoutBtn{
+    text-align: center;
+}
